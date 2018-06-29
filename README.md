@@ -1,8 +1,8 @@
-# [React Page Maker](https://www.npmjs.com/package/react-accordion-feature)
+# [React Accordion Component](https://www.npmjs.com/package/react-accordion-feature)
 
 This is a  Accordion Component developed in React JS.
 
-# Below are the `features` of this component: #
+># Below are the `features` of this component: #
 * one panel to be expanded at a time
 * multiple panels to be expanded at a time
 * allows `n` level of nesting of accordions
@@ -49,11 +49,12 @@ import Accordion from 'react-accordion-feature
     </Accordion>
 ```
 
+
 ># Props that can be passed to the component
-* customClass="accordionWrapper otherclasses" accordionWrapper needs to be passed to hold the minimal structure of the component
+* `customClass`="accordionWrapper otherclasses" accordionWrapper needs to be passed to hold the minimal structure of the component
 
-* multiplePanel - allows multiple panels to be expanded at a time
+* `multiplePanel` - allows multiple panels to be expanded at a time
 
-* activePane={[0, 1]} - pass the pane/panes index that needs to be expanded by default on page load
+* `activePane`={[0, 1]} - pass the pane/panes index that needs to be expanded by default on page load
 
-* hasCustomIcon (Boolean) - by default `+` and `-` icons are displayed, if you want our own icons, pass this flag and then you can add you icons using css class
+* `hasCustomIcon` (Boolean) - by default `+` and `-` icons are displayed, if you want your own icons, pass this flag and then you can add you icons using css class
