@@ -24,29 +24,31 @@ import Accordion from 'react-accordion-feature
 ># How to use this component
 ```
 <Accordion customClass="accordionWrapper">
-      <Accordion.Pane title="This is first accordion">
-        <div>
-          <h4>This is the first content title</h4>
-          <p>
-            {`Content goes here.`}
-          </p>
-        </div>
-      </Accordion.Pane>
-      <Accordion.Pane title="This is the second accordion">
-        <div>
-          <h4>This is the second content title</h4>
-          {`Content goes here.`}
-        </div>
-      </Accordion.Pane>
-      <Accordion.Pane title="This is the third accordion">
-        <div>
-          <h4>This is the third content title</h4>
-          <p>
-            {`Content goes here.`}
-          </p>
-        </div>
-      </Accordion.Pane>
-    </Accordion>
+	<Accordion.Pane title="This is first accordion">
+		<div>
+			<h4>This is the first content title</h4>
+			<p>
+				{`Content goes here.`}
+			</p>
+		</div>
+	</Accordion.Pane>
+		<Accordion.Pane title="This is the second accordion">
+			<div>
+				<h4>This is the second content title</h4>
+				<p>
+					{`Content goes here.`}
+				</p>
+			</div>
+		</Accordion.Pane>
+		<Accordion.Pane title="This is the third accordion">
+			<div>
+				<h4>This is the third content title</h4>
+				<p>
+					{`Content goes here.`}
+				</p>
+			</div>
+		</Accordion.Pane>
+</Accordion>
 ```
 
 
