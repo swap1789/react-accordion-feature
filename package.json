@@ -1,6 +1,6 @@
 {
   "name": "react-accordion-feature",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is react accordion component, with option to expand multiple panels, pre expanded panels. This component is accessible with keyboard",
   "main": "build/index.js",
   "peerDependencies": {
