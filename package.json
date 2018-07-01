@@ -1,6 +1,6 @@
 {
   "name": "react-accordion-feature",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is react accordion component, with option to expand multiple panels, pre expanded panels. This component is accessible with keyboard",
   "main": "build/index.js",
   "peerDependencies": {
@@ -25,7 +25,7 @@
   "license": "ISC",
    "repository": {
      "type": "git",
-     "url": "https://github.com/keermanish/react-page-maker.git"
+     "url": "https://github.com/swap1789/react-accordion-feature"
    },
   "keywords": [
     "react",
