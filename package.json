@@ -1,10 +1,10 @@
 {
   "name": "react-accordion-feature",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is react accordion component, with option to expand multiple panels, pre expanded panels. This component is accessible with keyboard",
   "main": "build/index.js",
   "peerDependencies": {
-    "react": "16.3.0",
+    "react": "^16.0.0",
     "classnames": "^2.2.5",
     "prop-types": "^15.5.10"
   },
@@ -29,6 +29,8 @@
    },
   "keywords": [
     "react",
+    "reactjs",
+    "collapsible panels",
     "component",
     "accordion",
     "accessible",

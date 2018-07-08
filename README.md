@@ -19,7 +19,7 @@ npm install --save react-accordion-feature
 
 ># How to include this component
 ```
-import Accordion from 'react-accordion-feature
+import Accordion from 'react-accordion-feature'
 ```
 ># How to use this component
 ```
@@ -55,7 +55,7 @@ import Accordion from 'react-accordion-feature
 ># Props that can be passed to the component
 * `customClass`="accordionWrapper otherclasses" accordionWrapper needs to be passed to hold the minimal structure of the component
 
-* `multiplePanel` - allows multiple panels to be expanded at a time
+* `mutiplePane` - allows multiple panels to be expanded at a time
 
 * `activePane`={[0, 1]} - pass the pane/panes index that needs to be expanded by default on page load
 
